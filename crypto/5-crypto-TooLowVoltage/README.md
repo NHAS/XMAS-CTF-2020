@@ -4,7 +4,7 @@ Fault injection attack against RSA under low power situations.
 
 # Solution
 
-As I have an example given in `main.go`, I'll give a brief rundown here. 
+As I have an example given in [main.go](main.go), I'll give a brief rundown here. 
 Essentially, we hit the target with a large number of key generation requests in order for a fault to occur. 
 
 One we have a faulty signature, we use a known good signature, and the faulty one to factor the public key N.
