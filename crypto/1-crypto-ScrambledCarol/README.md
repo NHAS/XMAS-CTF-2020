@@ -4,7 +4,7 @@ This challenge was a simple subsitution cipher effectively, despite the source d
 
 # Solution
 
-I first generated a frequency table for every hex pair (e.g 0e) with the code given in `main.go`.
+I first generated a frequency table for every hex pair (e.g 0e) with the code given in [main.go](main.go).
 
 ```
 01 : 16
