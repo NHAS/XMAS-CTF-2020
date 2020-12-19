@@ -1,6 +1,6 @@
 # XMAS-CTF 2020
 
-This year I took part in the https://xmas.htsp.ro/ CTF and had an awesome time doing most of the crypto challenges! We ended up roughly 35th out of 1404 players. 
+This year I took part in the https://xmas.htsp.ro/ CTF and had an awesome time doing most of the crypto challenges! We ended up 36th out of 1404 players. 
 
 In this repo are a number of writeups of things I found personally interesting, or challenging.
 
